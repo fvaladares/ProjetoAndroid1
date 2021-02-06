@@ -2,4 +2,7 @@
     <string name="app_name">ProjetoAndroid</string>
     <string name="button_label">Button</string>
     <string name="button_label_new_activity">Open a new activity</string>
+    <string name="waiting_for_command">Waiting for a command. Touch at CHANGE TEXT</string>
+    <string name="button_label_change">Change Text</string>
+    <string name="second_activity_new_text">Currently date and time %s</string>
 </resources>
